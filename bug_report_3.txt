@@ -1,0 +1,12 @@
+Title:Error in registration form.
+
+Description: When trying to register with an invalid email format, the form returns an incorrect error message.
+
+Steps to reproduce: 
+1. Open the registration page. 
+2. Enter 'test@' in the email field. 
+3. Click the 'Register' button
+
+Actual Result: "Error message about insufficient password length".
+
+Expected result: "Error message about invalid email format".
