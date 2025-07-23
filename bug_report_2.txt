@@ -1,0 +1,17 @@
+Bug Report example for a desktop application:
+
+TITLE:
+"Program closes when opening file".
+
+Description: "When trying to open a .doc file, the program crashes".
+
+Steps to reproduce: 
+1. Launch the program. 
+2. Click 'File' -> 'Open'. 
+3. Select a .doc file"
+
+Actual result: The program terminates abnormally.
+
+Expected result: The file opens in the program.
+
+Environment: Windows 10 Pro, version 1903, build 18362.900.
